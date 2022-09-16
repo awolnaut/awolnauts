@@ -7,9 +7,11 @@ Awolnauts is a CNFT Project.
 
 - [ ] Come up with a concept
   - [Gitbook](https://awolnauts.gitbook.io/awolnauts/)
-- [x] Reserve names on social media associated with Awolnauts
+- [x] Social media
   - [Facebook](https://www.facebook.com/awolnauts)
   - [Medium](https://medium.com/@awolnauts)
+  - [Soundcloud](https://soundcloud.com/awolnauts)
+  - [Spotify](https://open.spotify.com/user/31reatth2buttfmezvzcujv5cknq)
   - [Tiktok](https://www.tiktok.com/@awolnauts)
   - [Twitch](https://www.twitch.com/awolnauts)
   - [Twitter](https://www.twitter.com/awolnauts)
