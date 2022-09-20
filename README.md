@@ -23,3 +23,6 @@ Awolnauts is a CNFT Project.
 - [x] Discord Server
   - [Discord](https://discord.gg/8KXkE97puQ)
 - [ ] Art
+  - 2D Sketch
+  - 3D Model
+  - Environments
